@@ -1,0 +1,24 @@
+/* селектор {
+    свойство: значение;
+    свойство: значение;
+    свойство: значение;
+} */
+
+body{
+    background-color: bisque;
+}
+h1{
+    color: red;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 30px;
+    text-decoration: line-through;
+}
+.chapter{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+}
+.classtext{
+    font-weight: 900;
+}
